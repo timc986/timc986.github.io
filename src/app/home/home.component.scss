@@ -30,10 +30,14 @@ section {
   }
 }
 
-.card{
+.card {
   color: black;
 }
 
-.table{
+.table {
   color: white;
+
+  .minor {
+    font-weight: 100;
+  }
 }
