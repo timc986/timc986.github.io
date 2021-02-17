@@ -7,6 +7,10 @@ body {
   margin: 0;
 }
 
+.navbar{
+  padding-right: 0;
+}
+
 .svg-icon-button:hover {
   opacity: 0.8;
   cursor: pointer;
@@ -54,6 +58,10 @@ hr {
 
 .white-line {
   border-color: white;
+}
+
+.table-dark{
+  background-color: #142d46;
 }
 
 @media (min-width: 1200px) {
