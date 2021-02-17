@@ -62,6 +62,10 @@ hr {
 
 .table-dark {
   background-color: #142d46;
+
+  .thead-dark th{
+    background-color: #0a1b2b;
+  }
 }
 
 @media (min-width: 1200px) {
