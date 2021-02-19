@@ -1,0 +1,15 @@
+ng build --prod --baseHref=/timc986.github.io/
+
+copy the index.html to the save location and rename the copy as 404.html
+
+git checkout gh-pages
+
+# Adding files ...
+
+git add .
+
+git commit -m "Add files"
+
+git push
+
+git checkout master
