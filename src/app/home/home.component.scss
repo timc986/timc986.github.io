@@ -14,32 +14,3 @@ header {
     font-size: 1.25rem;
   }
 }
-
-section {
-  padding-top: 2rem;
-  padding-bottom: 3rem;
-
-  p {
-    font-size: 1.25rem;
-  }
-}
-
-.card {
-  color: black;
-  border: 0;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  // background-color: #f3f3f3;
-}
-
-.table {
-  color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-  .minor {
-    font-weight: 100;
-  }
-}
-
-.youtube-image {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
