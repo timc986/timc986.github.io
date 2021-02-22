@@ -79,3 +79,10 @@ hr {
     max-width: 960px;
   }
 }
+
+@media (max-width: 575.98px) {
+  .container {
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+}
